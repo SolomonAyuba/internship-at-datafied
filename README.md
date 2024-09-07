@@ -1,2 +1,2 @@
 # Power BI for Data Analytics 
-Course 3 Weekly exercise 
+Course 3 exercise 
