@@ -1,16 +1,16 @@
 # Power BI for Data Analytics 
-Course 3 Module 5 exercise overview
+## 📝 Overview of Course-3 Module-5 Exercise
 
 ## Task description
 GitHub is the project repository we will need to document our project for this course. Hence, it is very imperative to get an account and set it up.
 
-## Task
-Study the material on Project documentation, replicate the steps, and create the following
-- Github account
-- Profile: Use this account as a guide (https://github.com/Datafyde/Datafyde)
-- Project Repository
+## 🎯 Task
+Study the material on Project documentation, replicate the steps, and create the following:
+1. Github account
+2. Profile: Use this account as a guide (https://github.com/Datafyde/Datafyde)
+3. Project Repository
 
-## Deliverable:
+## 📦 Deliverable:
 Invite Datafied Academy to collaborate on your Git Repo (https://github.com/Datafyde)
 
-© Datafied Technologies
+© [Datafied Technologies](https://www.linkedin.com/company/datafiedhub/posts/?feedView=all)
