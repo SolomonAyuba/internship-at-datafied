@@ -1,2 +1,2 @@
-# internship-at-datafied
-Course 3 Exercise: Power BI for Data Analytics 
+# Power BI for Data Analytics 
+Course 3 Weekly exercise 
