@@ -14,4 +14,4 @@
   ## 📦 Deliverable:
   Invite Datafied Academy to collaborate on your Git Repo (https://github.com/Datafyde)
 
-© [Datafied Technologies](https://www.linkedin.com/company/datafiedhub/posts/?feedView=all)
+© [Datafied Technologies](https://www.linkedin.com/company/datafiedhub/posts/?feedView=all) 2024
