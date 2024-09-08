@@ -1,7 +1,7 @@
 # Internship at [Datafied Technologies](https://www.linkedin.com/company/datafiedhub) Log 
 ## Week 1: Power BI for Data Analytics | 📝 Overview of Course-3 Module-5 Exercise
   
-  ## Task description
+  ## ✍ Task description
   GitHub is the project repository we will need to document our project for this course. Hence, it is very imperative to get an account and set it up.
   
   ## 🎯 Task
